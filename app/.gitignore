@@ -1,1 +1,26 @@
-/build
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration files
+local.properties
+
+# IntelliJ / Android Studio files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Android generated files
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Mac/Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
